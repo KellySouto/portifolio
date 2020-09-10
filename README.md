@@ -7,7 +7,7 @@ portfólio do desenvolvedor
  
  ## Ícones
 
-:packege: nova funcionalidade
+:package: nova funcionalidade
 :up: atualização
-:beatle: documentação
+:beetle: documentação
 :checkered_flag: realease
