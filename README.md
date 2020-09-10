@@ -9,5 +9,5 @@ portfólio do desenvolvedor
 
 :package: nova funcionalidade
 :up: atualização
-:beatle: documentação
+:beetle: documentação
 :checkered_flag: realease
